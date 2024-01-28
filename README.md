@@ -1,23 +1,23 @@
-# YouTube Downloader
+# YouTube Downloader 🎥🎵
 This Python script allows users to download YouTube videos, audio, or entire playlists using the Pytube library. Users can choose from various options, including video download, audio download, or playlist download.
 
-
-## Requirements
+## Requirements 🛠️
  - Pytube
 Install Pytube using:
 
 ```bash
   pip install pytube
 ```
-## Usage
-##### 1.Run the script: python youtube_downloader.py.
-##### 2.Enter your choice:
+
+## Usage 🚀
+##### 1. Run the script: `python youtube_downloader.py`.
+##### 2. Enter your choice:
  - 1: Download a video.
  - 2: Download audio.
  - 3: Download a playlist.
  - 4: Exit.
 
- ## Features
+ ## Features ✨
 - **Download Video:** Users can provide a YouTube video link and choose from available video streams to download.
 
 - **Download Audio:** Users can input a YouTube video link to download the audio stream only.
@@ -26,7 +26,7 @@ Install Pytube using:
 
 - **Exit:** Allows the user to exit the program.
 
-## Examples
+## Examples 📝
 
 **Downloading a Video**
 
@@ -45,7 +45,7 @@ Enter the index of the video stream to download: [Selected Index]
 Video Downloaded Successfully
 ```
 
-**Downloading a Audio**
+**Downloading Audio**
 
 ```bash
 Enter What you want to Download:
@@ -78,6 +78,10 @@ Title: [Playlist Title]
 Playlist Downloaded Successfully
 ```
 
-##
-Feel free to customize this documentation according to your needs and provide more details if necessary. Also, ensure to include the appropriate license file in your repository.
+## Author 🧑‍💻
 
+- [Nishit]
+- [nishitjain02419@gmail.com]
+
+#
+Feel free to adjust the emojis or add more to fit your personal style!
