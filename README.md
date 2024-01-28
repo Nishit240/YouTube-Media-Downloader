@@ -1,4 +1,4 @@
-# YouTube Downloader 🎥🎵
+# YouTube Media Downloader 🎥🎵
 This Python script allows users to download YouTube videos, audio, or entire playlists using the Pytube library. Users can choose from various options, including video download, audio download, or playlist download.
 
 ## Requirements 🛠️
